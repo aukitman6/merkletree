@@ -1,0 +1,8 @@
+node_modules
+.openzeppelin
+build
+.vscode
+backup
+address.txt
+.env
+artifacts
